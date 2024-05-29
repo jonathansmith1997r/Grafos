@@ -1,0 +1,3 @@
+D: [6] [9] [7] [9] [4] [0] 
+Camino mas corto de F a D es de 9.
+
